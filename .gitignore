@@ -189,3 +189,5 @@ chromedriver
 
 # config file
 config.json
+
+# log file
